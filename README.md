@@ -2,9 +2,13 @@ Synopsis
 
 Example python programs to common algorithms interview questions
 
-Code Example
+Code Examples
 
-Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+- Mean, Median , Mode
+- Ranson Note Checker:  Can you generate a ransom note from a magazine or some text
+- Reduce a string if there are repeats
+- Find a contiquous sum given a sequence of non-negative integers
+- Anagram checker
 
 Motivation
 
