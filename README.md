@@ -1,6 +1,6 @@
 Synopsis
 
-Example python programs for interviews
+Example python programs to common algorithms interview questions
 
 Code Example
 
@@ -10,9 +10,7 @@ Motivation
 
 - re-familiarize python data structures and algorithms
 
-Installation
 
-Provide code examples and explanations of how to get the project.
 
 API Reference
 
@@ -20,12 +18,11 @@ API Reference
 
 Tests
 
-No tests for now
+- No tests for now
 
 Contributors
 
-none
+- none
 
 License
 
-A short snippet describing the license (MIT, Apache, etc.)
